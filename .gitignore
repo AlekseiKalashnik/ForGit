@@ -1,0 +1,22 @@
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/kotlin/jvm/main/
+/build/js/packages/ForGit/kotlin/.gradle
+**/build/
+!src/**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
