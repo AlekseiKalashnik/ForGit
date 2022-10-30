@@ -15,7 +15,7 @@ fun HTML.index() {
     }
     body {
         div {
-            +"Hello from Ktor from master"
+            +"Hello from Ktor bi girls"
         }
         div {
             id = "root"
